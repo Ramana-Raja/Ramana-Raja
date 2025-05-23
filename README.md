@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-- 🌱 I’m currently learning **Cyber security**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **ramanarajakesavaraja@gmail.com**
 
