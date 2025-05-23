@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramana Raja</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramana-raja&label=Profile%20views&color=0e75b6&style=flat" alt="ramana-raja" /> </p>
 
 - 🌱 I’m currently learning **Cyber security**
 
