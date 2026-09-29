@@ -13,7 +13,3 @@
 - [LinkedIn](https://www.linkedin.com/in/ramanaraja/)
 - [LeetCode](https://www.leetcode.com/ramanaraja)
 - [Email](mailto:ramanaraja05052005@gmail.com)
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ramana-Raja&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
